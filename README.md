@@ -1,5 +1,5 @@
-#100 Days of Python
+# 100 Days of Python
 
-##Day 11
+## Day 11
 
 Create a blackjack game
